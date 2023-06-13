@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/941.ff063579.chunk.css","mappings":"AACI,yBAEI,kBACA,kBAFA,UAEA","sources":["app/UI/YandexMap/style.module.scss"],"sourcesContent":[".Map {\r\n    iframe {\r\n        width: 100%;\r\n        aspect-ratio: 16 / 9;\r\n        border-radius: 4px;\r\n    }\r\n}\r\n"],"names":[],"sourceRoot":""}
